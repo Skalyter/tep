@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sssp>
   <app id="http://samsung.com/ananke" type="wgt" version="2.0.1">
-    <download>TBD</download>
+    <download>https://github.com/Skalyter/tep/raw/refs/heads/main/OneApp.wgt</download>
     <!-- <icon>http://192.168.50.145:3000/icon.png</icon> -->
     <name>OneApp</name>
     <description>Your App Description</description>
